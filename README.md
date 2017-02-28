@@ -1,2 +1,1 @@
-# branding
-NF-eBOT Branding
+# NF-eBOT Branding
